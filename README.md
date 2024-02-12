@@ -1,1 +1,2 @@
-# simple-enigma-simulator
+# simple-enigma-emulator
+
